@@ -1,0 +1,20 @@
+.container{
+    padding-top: 50px;
+}
+
+.newTaskButton, .saveButton, .backButton{
+    margin-bottom: 50px;
+    background-color: #ff4500;
+    color: white;
+    border-radius: 10px;
+    border-color: #ff4500;
+}
+
+.saveButton, .backButton{
+    margin-top: 15px
+}
+
+button:hover {
+    color: black;
+    transition: 1s;
+}

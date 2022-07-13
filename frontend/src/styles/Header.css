@@ -1,0 +1,10 @@
+.header {
+    background-color: #ff4500;
+    display:flex
+  }
+
+  .headerTitle{
+    font-size: 50px;
+    padding: 65px 5px;
+    color: white;
+  }
