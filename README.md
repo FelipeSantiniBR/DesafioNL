@@ -11,5 +11,5 @@ EN - The following project was created in order to demonstrate the use of a Task
 React, Typescript, React Bootstrap, Nodejs(typescript), TypeORM, PostgreSQL.
 
 -Instruções para rodar o projeto:
-1 - Digite o comenado yarn dev no backend,
+1 - Digite o comando yarn dev no backend,
 2 - Digite o comando yarn start no frontend.
